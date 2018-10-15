@@ -35,4 +35,6 @@ flex-grow: 2<!-- Takes up 2 times of the orginal space required-->
 
 ### To adjust the size of flex items if there is not enough space
 ```html
-flex-shrink: 
+flex-shrink: 2;<!-- Decreases the size of the text 2 times than the orginal. The default value is 1 -->
+<!-- any integer along with negetive integer-->
+```
